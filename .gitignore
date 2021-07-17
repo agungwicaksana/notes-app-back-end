@@ -1,2 +1,4 @@
 node_modules
 .DS_Store
+notes-api-webserver.pem
+new_user_credentials.csv
